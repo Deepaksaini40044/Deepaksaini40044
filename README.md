@@ -60,9 +60,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Deepaksaini40044&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepaksaini40044&show_icons=true&theme=dracula&cache_seconds=1800)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Deepaksaini40044&theme=dracula&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Deepaksaini40044&theme=dracula)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepaksaini40044&theme=dracula&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepaksaini40044&layout=compact&theme=dracula)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

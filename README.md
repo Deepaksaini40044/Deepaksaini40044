@@ -56,10 +56,6 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 # 📊 GitHub Stats:
 
-# 📊 GitHub Stats
-
-# 📊 GitHub Stats:
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepaksaini40044&show_icons=true&theme=dracula&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Deepaksaini40044&theme=dracula)

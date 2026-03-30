@@ -56,10 +56,15 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Deepaksaini40044&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
+# 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=Deepaksaini40044&theme=dracula&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepaksaini40044&theme=dracula" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Deepaksaini40044&theme=dracula" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepaksaini40044&theme=dracula&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepaksaini40044&layout=compact&theme=dracula" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

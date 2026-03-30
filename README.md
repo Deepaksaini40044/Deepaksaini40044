@@ -55,10 +55,8 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 # 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepaksaini40044&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepaksaini40044&show_icons=true&theme=dracula&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Deepaksaini40044&theme=dracula)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepaksaini40044&layout=compact&theme=dracula)
+## 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepaksaini40044&layout=compact&theme=radical)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

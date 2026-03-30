@@ -58,13 +58,11 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepaksaini40044&theme=dracula" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Deepaksaini40044&theme=dracula" />
-</p>
+# 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepaksaini40044&layout=compact&theme=dracula" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Deepaksaini40044&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
 
+![](https://nirzak-streak-stats.vercel.app/?user=Deepaksaini40044&theme=dracula&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepaksaini40044&theme=dracula&hide_border=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

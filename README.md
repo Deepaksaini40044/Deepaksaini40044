@@ -4,13 +4,11 @@
 
 🎓 Data Scientist passionate about transforming data into intelligent systems
 
-🤖 Strong background in Machine Learning, Deep Learning, and Generative AI
+🤖 Strong background in Machine Learning, Deep Learning, and SQL, Advance Excel
 
 📊 Experienced in Data Analytics, Feature Engineering, and Statistical Modeling
 
 👁️ Hands-on with Computer Vision (CNNs, image processing, end-to-end CV pipelines)
-
-🗣️ Skilled in Natural Language Processing (Transformers, LLMs, Fine-tuning, RAG systems)
 
 🧠 Focused on research-driven AI with real-world impact
 
